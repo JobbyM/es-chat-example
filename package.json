@@ -1,0 +1,23 @@
+{
+  "name": "es-chat-example",
+  "version": "1.0.0",
+  "description": "A simple EventSource Chat Simple",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JobbyM/es-chat-example.git"
+  },
+  "keywords": [
+    "EventSource"
+  ],
+  "author": "JobbyM <songzhipengmune@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JobbyM/es-chat-example/issues"
+  },
+  "homepage": "https://github.com/JobbyM/es-chat-example#readme"
+}
